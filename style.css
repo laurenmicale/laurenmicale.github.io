@@ -1,0 +1,52 @@
+div {
+  display: block;
+  color: #776871;
+  background-color: #f0f7ee;
+  font-size: 1.5em;
+  font-style: italic;
+  font-family: courier, monospace, serif;
+  border: 4px solid #c4d7f2;
+  border-radius: 10px;
+  padding: 20px;
+}
+div:hover {
+  background-color: #f0ffce;
+}
+.walking {
+  width: 50%;
+}
+
+#navbar ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #587792;
+}
+
+#navbar ul li {
+  float: left;
+}
+
+#navbar ul li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+#navbar ul li a:hover {
+  background-color: #111111;
+}
+table {
+  border-spacing: 20px;
+}
+
+th {
+  text-align: left;
+}
+
+img {
+  width: 50%;
+}
